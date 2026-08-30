@@ -1,6 +1,6 @@
 ## Hi 👋 , i'm Avigayan Jana
+Cyber Security || CSE Engineer || Kolkata from India
 
-<!--
 **Avigayan13/Avigayan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
