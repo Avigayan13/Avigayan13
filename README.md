@@ -44,7 +44,35 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avigayan13&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" alt="activity graph" />
 </div>
 
----
+-
+### 🌟 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/Avigayan13/Cybex-D-Portal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=Cybex-D-Portal&theme=tokyonight&show_owner=true" alt="Cybex D Portal" />
+</a>
+
+<br/>
+
+> 🚀 **CYBEX D** is the official all-in-one academic portal for SRM University-AP CSE Section D featuring live 3D timetable countdowns, study vault, exam syllabus, and CR grievance desk.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+[🔗 **Live Website**](https://cybex-d-portal.vercel.app/) • [💻 **Source Code**](https://github.com/Avigayan13/Cybex-D-Portal)
+
+</div>
+
+--
 
 ### 🌐 Connect With Me
 
