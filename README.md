@@ -45,10 +45,10 @@
       <a href="https://cybex-d-portal.vercel.app">Live demo</a> · <a href="https://github.com/Avigayan13/Cybex-D-Portal">Repository</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🧩 Sudoku Solver</h3>
-      <p>A C-based 9×9 Sudoku solver using recursive backtracking, with file input, custom puzzle entry, solution validation, and performance analysis across difficulty levels.</p>
-      <p><code>C</code> <code>Recursion</code> <code>Backtracking</code></p>
-      <a href="https://github.com/Avigayan13/Sudoku-Solver">View repository</a>
+      <h3>🛡️ PhishShield</h3>
+      <p>A browser-based phishing awareness tool with explainable URL and email checks, local processing, input validation, and 13 automated tests.</p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Cybersecurity</code></p>
+      <a href="https://github.com/Avigayan13/PhishShield">View repository</a>
     </td>
     <td width="33%" valign="top">
       <h3>⚡ BIDECC / SYNORA</h3>
@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://github.com/Avigayan13/Cybex-D-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=Cybex-D-Portal&theme=graywhite&hide_border=true" alt="CYBEX D Portal repository card" /></a>
-  <a href="https://github.com/Avigayan13/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=Sudoku-Solver&theme=graywhite&hide_border=true" alt="Sudoku Solver repository card" /></a>
+  <a href="https://github.com/Avigayan13/PhishShield"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=PhishShield&theme=graywhite&hide_border=true" alt="PhishShield repository card" /></a>
 </div>
 
 ## 📊 GitHub at a glance
