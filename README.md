@@ -1,19 +1,19 @@
 <!-- Profile README for github.com/Avigayan13 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=header" alt="Blue and purple animated wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0D0D,FFFFFF&section=header" alt="Animated black and white wave" />
 
 <div align="center">
 
 # Hi, I'm Avigayan Jana 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=B.Tech+CSE+student+at+SRM+University-AP;Building+useful+web+experiences;Learning+DSA%2C+problem-solving+%26+full-stack+development" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=111111&center=true&vCenter=true&width=620&lines=B.Tech+CSE+student+at+SRM+University-AP;Building+useful+web+experiences;Learning+DSA%2C+problem-solving+%26+full-stack+development" alt="Typing introduction" />
 
 <p>
   <a href="https://github.com/Avigayan13">
     <img src="https://img.shields.io/badge/GitHub-Avigayan13-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="mailto:aviytgc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20connect-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Avigayan" />
+    <img src="https://img.shields.io/badge/Email-Let's%20connect-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Avigayan" />
   </a>
 </p>
 
@@ -60,29 +60,29 @@
 </table>
 
 <div align="center">
-  <a href="https://github.com/Avigayan13/Cybex-D-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=Cybex-D-Portal&theme=tokyonight&hide_border=true" alt="CYBEX D Portal repository card" /></a>
-  <a href="https://github.com/Avigayan13/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=Sudoku-Solver&theme=tokyonight&hide_border=true" alt="Sudoku Solver repository card" /></a>
+  <a href="https://github.com/Avigayan13/Cybex-D-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=Cybex-D-Portal&theme=graywhite&hide_border=true" alt="CYBEX D Portal repository card" /></a>
+  <a href="https://github.com/Avigayan13/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Avigayan13&repo=Sudoku-Solver&theme=graywhite&hide_border=true" alt="Sudoku Solver repository card" /></a>
 </div>
 
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avigayan13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Avigayan's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Avigayan13&theme=tokyonight&hide_border=true" alt="Avigayan's contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avigayan13&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github" alt="Avigayan's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Avigayan13&theme=graywhite&hide_border=true" alt="Avigayan's contribution streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avigayan13&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avigayan13&layout=compact&theme=graywhite&hide_border=true" alt="Most-used languages" />
 </div>
 
 ## 🤝 Let’s connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="82%" alt="Blue and purple divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=3&section=header" width="82%" alt="Black divider" />
 
 I’m always happy to learn, collaborate, and talk about building useful things.
 
-<a href="mailto:aviytgc@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
-<a href="https://github.com/Avigayan13"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow Avigayan on GitHub" /></a>
+<a href="mailto:aviytgc@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://github.com/Avigayan13"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="Follow Avigayan on GitHub" /></a>
 
 </div>
 
@@ -92,5 +92,5 @@ I’m always happy to learn, collaborate, and talk about building useful things.
   <i>Thanks for visiting — keep building, keep learning. 🚀</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,11,6&section=footer" alt="Blue and purple animated wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFFFFF,0D0D0D&section=footer" alt="Animated black and white wave" />
 
