@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/Avigayan13 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0D0D,FFFFFF&section=header" alt="Animated black and white wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,48:5F5F5F,100:F5F5F5&section=header&animation=twinkling" alt="Animated black, grey, and white wave" />
 
 <div align="center">
 
@@ -92,5 +92,5 @@ I’m always happy to learn, collaborate, and talk about building useful things.
   <i>Thanks for visiting — keep building, keep learning. 🚀</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFFFFF,0D0D0D&section=footer" alt="Animated black and white wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F5F5F5,52:5F5F5F,100:000000&section=footer&animation=twinkling" alt="Animated white, grey, and black wave" />
 
